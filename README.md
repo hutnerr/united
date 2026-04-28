@@ -23,4 +23,4 @@ UnitED Calculator provides a flexible and extensible system for performing both 
 - Built-in help section for usability  
 - Comprehensive JUnit test coverage for accuracy and edge cases  
 
-![](https://www.hunter-baker.com/resources/images/projects/united.png)
+![](https://www.hunter-baker.com/assets/projects/united/united.png)
